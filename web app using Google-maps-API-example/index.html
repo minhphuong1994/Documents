@@ -1,0 +1,63 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Google Map Example</title>
+    <meta name="viewport" content="initial-scale=1.0">
+    <meta charset="utf-8">
+    <!-- Put your custom css here -->
+    <style>
+        .map {
+            height: 100%;
+        }
+        html, body {
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+    </style>
+    
+</head>
+  <body>
+      <div class="map">
+
+      </div>
+      <script>          
+          let map1
+          function initMap() {
+              console.log("abc")
+              map1 = new google.maps.Map(document.querySelector('.map'), {
+                 center: {lat: 43.651070, lng: -79.347015},
+                 zoom: 11
+              });
+
+              let marker = new google.maps.Marker({ //CN Tower
+                  position: { lat: 43.642567, lng: -79.387054 }, // lat and lng of the pin
+                  //icon: "marker.png",
+                  map: map1   // variable that stores your map                
+              });
+
+       
+
+              var infowindow = new google.maps.InfoWindow({
+                  content: "Put some content here!"
+              });
+
+              let marker2 = new google.maps.Marker({ //FairView Mall
+                  position: { lat: 43.77333024, lng: -79.33999864 }, // lat and lng of the pin
+                  icon: "marker.png",
+                  title: 'Uluru (Ayers Rock)',
+                  map: map1   // variable that stores your map                
+              });
+
+              marker2.addListener('click', function() {
+                  infowindow.open(map1, marker2);
+              });
+          }
+      </script>
+      <!-- Put the google maps javascript library here -->
+      <!-- Replace API_KEY with your key that you got from google -->
+      <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBXOOGkArWgl7uj0JrzZMNWk823vqUuFro&callback=initMap"
+              async defer></script>
+      
+  </body>
+</html>
