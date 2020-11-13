@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="56dp"
+        android:src="@drawable/zipcarlogo"
+        android:layout_marginBottom="5dp"
+        />
+    <TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="ZipCar Rentals"
+    android:layout_gravity="center"
+    android:textSize="20dp"
+    android:layout_marginBottom="10dp"
+    />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Active Bookings"
+        android:layout_gravity="center"
+        android:textSize="30dp"
+        android:layout_marginBottom="20dp"
+        android:layout_marginTop="40dp"
+        />
+
+    <TextView
+        android:id="@+id/tv_booking_history"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="18dp"
+        android:text="historiy goes here"
+        android:layout_gravity="center"/>
+
+
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center">
+
+        <Button
+            android:id="@+id/btn_NewBooking"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Make New Booking"
+            android:layout_marginRight="5dp"
+            android:onClick="New_Booking"
+            />
+        <Button
+            android:id="@+id/btn_DeleteBooking"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:text="Delete All Booking"
+            android:onClick="Delete_History"
+           />
+    </LinearLayout>
+
+</LinearLayout>

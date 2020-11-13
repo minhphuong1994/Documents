@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ReceiptActivity"
+    android:orientation="vertical"
+    android:padding="20dp">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="56dp"
+        android:src="@drawable/zipcarlogo"
+        android:layout_marginBottom="5dp"
+        />
+    <TextView
+        android:id="@+id/tv_Name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Rental Confirmation for Peter"
+        android:layout_gravity="center"
+        android:textSize="20dp"
+        android:layout_marginBottom="10dp"
+        />
+    <ImageView
+        android:id="@+id/img_Car"
+        android:layout_width="wrap_content"
+        android:layout_height="225dp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="20dp"
+        android:src="@drawable/sedanorange" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Vehicle Summary: "
+        android:textSize="18dp"
+        />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:orientation="vertical"
+        android:layout_marginBottom="20dp">
+
+        <!--  @TODO: Put your vehicle information here -->
+        <TextView
+            android:id="@+id/tv_CarSummary"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="16dp"
+            android:text="car info goes here"/>
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Rental Summary: "
+        android:textSize="18dp"
+        />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tv_RentalSummary"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="16dp"
+            android:text="SUV, 2 hours, within zone"/>
+
+        <!--  @TODO: Put your rental summary information here -->
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp">
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="GO BACK"
+            android:layout_gravity="center"
+            android:onClick="Go_Back"
+            />
+
+        <Button
+            android:id="@+id/btn_Confirm"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="CONFIRM RENTAL"
+            android:layout_gravity="center"
+            android:onClick="Confirm"
+            />
+    </LinearLayout>
+
+</LinearLayout>
