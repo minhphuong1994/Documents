@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Week10-EF-Identity",
+    "\\Week10-EF-Identity\\Areas",
+    "\\Week10-EF-Identity\\Areas\\Identity",
+    "\\Week10-EF-Identity\\Areas\\Identity\\Pages",
+    "\\Week10-EF-Identity\\Data",
+    "\\Week10-EF-Identity\\Models",
+    "\\Week10-EF-Identity\\Views",
+    "\\Week10-EF-Identity\\Views\\Home",
+    "\\Week10-EF-Identity\\Views\\Shared"
+  ],
+  "SelectedNode": "\\Week10-EF-Identity\\Views\\Home\\Index.cshtml",
+  "PreviewInSolutionExplorer": false
+}
