@@ -1,0 +1,406 @@
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\Week10-EF.exe
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\obj\Debug\netcoreapp3.1\Week10-EF.csprojAssemblyReference.cache
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\obj\Debug\netcoreapp3.1\Week10-EF.AssemblyInfoInputs.cache
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\obj\Debug\netcoreapp3.1\Week10-EF.AssemblyInfo.cs
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\obj\Debug\netcoreapp3.1\Week10-EF.RazorAssemblyInfo.cache
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\obj\Debug\netcoreapp3.1\Week10-EF.RazorAssemblyInfo.cs
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\obj\Debug\netcoreapp3.1\Week10-EF.TagHelpers.input.cache
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\obj\Debug\netcoreapp3.1\Week10-EF.TagHelpers.output.cache
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\obj\Debug\netcoreapp3.1\Week10-EF.RazorCoreGenerate.cache
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\obj\Debug\netcoreapp3.1\Week10-EF.RazorTargetAssemblyInfo.cache
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\obj\Debug\netcoreapp3.1\Week10-EF.RazorTargetAssemblyInfo.cs
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\obj\Debug\netcoreapp3.1\staticwebassets\Week10-EF.StaticWebAssets.Manifest.cache
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\obj\Debug\netcoreapp3.1\staticwebassets\Week10-EF.StaticWebAssets.xml
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\obj\Debug\netcoreapp3.1\Week10-EF.csproj.CopyComplete
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\Week10-EF.deps.json
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\Week10-EF.runtimeconfig.json
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\Week10-EF.runtimeconfig.dev.json
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\Week10-EF.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\Week10-EF.pdb
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\Week10-EF.Views.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\Week10-EF.Views.pdb
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\obj\Debug\netcoreapp3.1\Week10-EF.Views.pdb
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\obj\Debug\netcoreapp3.1\Week10-EF.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\obj\Debug\netcoreapp3.1\Week10-EF.pdb
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\obj\Debug\netcoreapp3.1\Week10-EF.genruntimeconfig.cache
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\obj\Debug\netcoreapp3.1\Razor\Views\Students\Create.cshtml.g.cs
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\obj\Debug\netcoreapp3.1\Razor\Views\Students\Delete.cshtml.g.cs
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\obj\Debug\netcoreapp3.1\Razor\Views\Students\Details.cshtml.g.cs
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\obj\Debug\netcoreapp3.1\Razor\Views\Students\Edit.cshtml.g.cs
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\obj\Debug\netcoreapp3.1\Razor\Views\Students\Index.cshtml.g.cs
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\obj\Debug\netcoreapp3.1\Razor\Views\Grades\Create.cshtml.g.cs
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\obj\Debug\netcoreapp3.1\Razor\Views\Grades\Delete.cshtml.g.cs
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\obj\Debug\netcoreapp3.1\Razor\Views\Grades\Details.cshtml.g.cs
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\obj\Debug\netcoreapp3.1\Razor\Views\Grades\Edit.cshtml.g.cs
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\obj\Debug\netcoreapp3.1\Razor\Views\Grades\Index.cshtml.g.cs
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\Week10-EF.StaticWebAssets.xml
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\obj\Debug\netcoreapp3.1\Week10-EF.csproj.CoreCompileInputs.cache
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\obj\Debug\netcoreapp3.1\Week10-EF.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\obj\Debug\netcoreapp3.1\Week10-EF.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\WIN10\Desktop\CS_Web_App\Week10-EF\Week10-EF\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\Week10-EF.StaticWebAssets.xml
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\Week10-EF.exe
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\Week10-EF.deps.json
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\Week10-EF.runtimeconfig.json
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\Week10-EF.runtimeconfig.dev.json
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\Week10-EF.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\Week10-EF.pdb
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\Week10-EF.Views.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\Week10-EF.Views.pdb
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\obj\Debug\netcoreapp3.1\Week10-EF.csprojAssemblyReference.cache
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\obj\Debug\netcoreapp3.1\Week10-EF.AssemblyInfoInputs.cache
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\obj\Debug\netcoreapp3.1\Week10-EF.AssemblyInfo.cs
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\obj\Debug\netcoreapp3.1\Week10-EF.csproj.CoreCompileInputs.cache
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\obj\Debug\netcoreapp3.1\Week10-EF.MvcApplicationPartsAssemblyInfo.cs
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\obj\Debug\netcoreapp3.1\Week10-EF.MvcApplicationPartsAssemblyInfo.cache
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\obj\Debug\netcoreapp3.1\Week10-EF.RazorAssemblyInfo.cache
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\obj\Debug\netcoreapp3.1\Week10-EF.RazorAssemblyInfo.cs
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\obj\Debug\netcoreapp3.1\staticwebassets\Week10-EF.StaticWebAssets.Manifest.cache
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\obj\Debug\netcoreapp3.1\staticwebassets\Week10-EF.StaticWebAssets.xml
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\obj\Debug\netcoreapp3.1\scopedcss\bundle\Week10-EF.styles.css
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\obj\Debug\netcoreapp3.1\Week10-EF.TagHelpers.input.cache
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\obj\Debug\netcoreapp3.1\Week10-EF.TagHelpers.output.cache
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\obj\Debug\netcoreapp3.1\Week10-EF.RazorCoreGenerate.cache
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\obj\Debug\netcoreapp3.1\Razor\Views\Grades\Create.cshtml.g.cs
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\obj\Debug\netcoreapp3.1\Razor\Views\Grades\Delete.cshtml.g.cs
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\obj\Debug\netcoreapp3.1\Razor\Views\Grades\Details.cshtml.g.cs
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\obj\Debug\netcoreapp3.1\Razor\Views\Grades\Edit.cshtml.g.cs
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\obj\Debug\netcoreapp3.1\Razor\Views\Grades\Index.cshtml.g.cs
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\obj\Debug\netcoreapp3.1\Razor\Views\Students\Create.cshtml.g.cs
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\obj\Debug\netcoreapp3.1\Razor\Views\Students\Delete.cshtml.g.cs
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\obj\Debug\netcoreapp3.1\Razor\Views\Students\Details.cshtml.g.cs
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\obj\Debug\netcoreapp3.1\Razor\Views\Students\Edit.cshtml.g.cs
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\obj\Debug\netcoreapp3.1\Razor\Views\Students\Index.cshtml.g.cs
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\obj\Debug\netcoreapp3.1\Week10-EF.RazorTargetAssemblyInfo.cache
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\obj\Debug\netcoreapp3.1\Week10-EF.RazorTargetAssemblyInfo.cs
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\obj\Debug\netcoreapp3.1\Week10-EF.Views.pdb
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\obj\Debug\netcoreapp3.1\Week10-EF.csproj.CopyComplete
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\obj\Debug\netcoreapp3.1\Week10-EF.dll
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\obj\Debug\netcoreapp3.1\Week10-EF.pdb
+D:\Study\Documents\Student info CRUD app - .NET core MVC with EF\Week10-EF\obj\Debug\netcoreapp3.1\Week10-EF.genruntimeconfig.cache
