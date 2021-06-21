@@ -1,4 +1,4 @@
-Welcome to my personal repository!
+Welcome to my personal repositories!
 
-These are all my course projects/assignments during CSAT program at Lambton College in 
-Toronto.
+These are all my course projects/assignments and self-study practices.
+Hope you like them!
