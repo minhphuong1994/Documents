@@ -1,0 +1,80 @@
+Default location in HDFS is /user/$username
+
+*****Start/Stop HDFS:
+bin/stop-dfs.sh (this cmd must be performed by the user started dfs)
+
+bin/start-dfs.sh
+
+
+*****HDFS command structure:
+[bin/hadoop or hdfs] [subset of hadoop functionality (dfs/dsfadmin)] -[cmd] [args]
+Notes:
+- dfs subset works with file/dir in the file system
+- dfsadmin subset works with file system
+*****Copy file(s) from local to HDFS:
+hdfs dfs -put/-copyFromLocal /local/file/path /user/someuser/
+
+*****Copy file(s) from HDFS to local:
+hdfs dfs -get/-copyTLocal /hadoop/file/path /local/store/location
+
+Notes:
+- If file already exist in HDFS when uploading to HDFS, error will occure 
+- If HDFS file path not exist, it will be created automatically 
+- If files are not fully copied, they won't be visible to the system and thus considered not exist
+
+*****Show all dfs commands in HDFS:
+hdfs dfs
+
+Note:
+hdfs dfs -help [cmd name] : show short usage of a specific cmd
+
+*****Some other common cmds:
+-ls / lsr 	: list dir content / recursively
+-cp / cpr	: copy a file/dir / recursively
+-rm / rmr	: same as above but to remove
+- mv 		: move file from 1 place to another within HDFS
+
+
+
+*****HDFS dfsadmin commands:
+*****Show general report
+hdfs dfsadmin -report	:get basic informtion of the cluster's overall health
+
+*****Show details metadata data on a Namenode of a file
+hdfs dfsadmin -metasave [file name]
+
+*****Safemode (HDFS read-only mode):
+hdfs dfsadmin -safemode [option]
+Options:
+enter	:turn on safemode
+leave	:exit safemode
+get	: check if safemode is on or off
+wait	:wait till safemode had exited and returns
+
+Note: safemode is on when namenode starts to giving time for namenode and datanodes to 
+gather information from each other. It will exit once reach a threshold defined in
+dfs.safemode.threshold.pct parameter.
+
+*****Change HDFS membership (disconnect a node)
+hdfs dfsadmin -refeshNodes
+
+Note: use it to disconnect nodes from HDFS before decommossioning nodes to prevent data lost.
+
+*****Upgrading HDFS version:
+bind/start-dfs.sh -upgrade	:upgrade HDFS version
+hdfs dfsadmin -upgradeProgress status	:show upgrade process status
+hdfs dfsadmin -upgradeProgress defailts	:show upgrade process in details
+hdfs dfsadmin -upgradeProgress force	:force to upgrade (be careful)
+bin/start-dfs.sh -rollback		:rollback to previous HDSF version (re-install the old hadoop before running this cmd)
+hdfs dfsadmin -finalizeUpgrade		:delete previous version backup
+hdfs dfsadmin -help cmd			:show usage info of a cmd
+
+*****Rack Awareness
+HDFS can make rackawareness by making a network topology based on IP of nodes within a cluster 
+using a script. That script is specified by topology.script.file.name property in conf/hadoop-site.xml file.
+E.g. 
+10.x.y.z 	:is ip of a cluster
+10.1.y.z	:is ip of nodes/machines within same center
+10.1.1.z	:is ip of nodes/machines within same rack
+
+

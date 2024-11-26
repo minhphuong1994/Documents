@@ -1,0 +1,145 @@
+Notes about Groovy:
+- It can run both compiled to bytecode file or directly as a script (run on GroovyShell)
+- It imports common-used packages by default
+- Groovy class is public by default
+- Semi-colons are optional
+- It is an optional type language
+- Exception Handling is optional in Groovy
+- Getters/Setters/Constructor are automatically genterated
+
+*******Declare a variable: 
+def variable_a = 1
+int variable_a = 1
+
+*******Print to screen
+println variable_a
+
+*******Get variable type
+variable_a.getClass()
+
+*******Define a class
+class Person implements Serializable {
+	String firstName
+	String lastName
+	int age
+	
+	String getFullName(){
+		firstName +" "+ lastName
+	}
+}
+
+*******Instantiate a class
+-- Verbose way:
+Person aBoy = new Person()
+aBoy.setFirstName("John")
+aBoy.setLastName("Baby")
+aBoy.setAge(10)
+
+println aBoy.getFullName()
+println aBoy.getFirstName()
+
+-- Short way:
+Person aBoy = new Person(firstName:"John",lastName:"Baby",age:10)
+
+
+*******If .. Else
+if (aBoy.getAge() == 10 && aBoy.getFirstName == "John"){
+	println "Ok"
+} else{
+	println "Not Ok"
+}
+
+
+*******Create a List of persons
+def persons =[aBoy,aBoy]
+persons.size()
+persons[1] = anotherBoy
+
+
+*******For loop
+-- Option 1:
+for (Person aPerson : persons){
+	println aPerson.getFullName()
+}
+
+-- Option 2: it is a reserved keyword for the item
+persons.each{
+	println it.getFirstName()
+}
+
+-- Option 3: iterate with an index number
+persons.each{ Person person, int i ->
+	println i +" : "+ person.getFirstName()
+}
+
+
+*******Exception Handling
+try{
+	aBoy.getFirstName().toLong() //convert a String to Long to get error
+} catch(NumberFormatException e){
+	assert e instanceof NumberFormatException
+	println "This is exception handling"
+}
+
+
+*******Remove last n characters
+aBoy.getFirstName().dropRight(2)
+
+
+*******Use Annotations
+@ToString 		//place on top of a class for Groovy to generate ToString method
+@EqualsAndHashCode	//create Equals and hashCode methods
+@TupleConstructor	//create an empty constructor
+@Canonical		//do all the above Annotations' jobs
+
+
+*******Closure (two curly braces "{}") - it's like an annornymous function. It can be passed as a parameter too
+Closure personToString = {Person person -> println person.toString()}
+personToString(aBoy)
+
+
+
+*******Find an item in a list
+persons.find {it.getFirstName == "John"}
+
+
+*******Transforme items into something else
+persons.collect { it.getAge() <= 11} //this will return a list of boolean of false
+
+
+*******Sort a list of objects by age
+persons.sort { it.getAge() }
+
+
+*******Reading a file
+-- Read full file:
+File file = new File("path/to/new/file.txt")
+file.getText('UTF-8')
+
+-- Read line by line:
+file.eachLine { aLine, i ->
+	println "Line "+i+": "+aLine
+}
+
+
+*******Write a file
+File textFile = new File("path/to/save/file.txt")
+
+-- Overwrite records:
+textFile.withWriter('UTF-8'){ writer ->
+	writer.writeLine("First Line")
+	writer.writeLine("Second Line")
+	writer.writeLine("Last Line")
+}
+
+-- Append records:
+textFile.append(" Extra Line")  //or textFile << "Extra Line"
+
+-- Serialize and object to a file (the object class but implements Serializable interface)
+File binFile = new File("path/to/save/file.bin")
+
+binFile.withObjectOutputStream { out ->
+	out.writeObject(aBoy)
+}
+
+

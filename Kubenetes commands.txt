@@ -1,0 +1,100 @@
+- To install Kubenetes, install Docker,kubectl and minikube (Hyper-V required on Windows)
+- Make a virtual network and expose the net to the internet then deploy pods using the network
+- Use "minikube service [service name] --url" to run and see the service url
+
+*********Create pods/service/development using yaml file
+kubectl create -f [path to the yaml file]
+
+
+*********Delete a pod
+kubectl delete [pod name/id]
+
+
+*********expose deployments into services
+kubectl expose deployment [deployment name] --type=NodePort
+
+*********Run a service using Minikube
+minikube service [service name]
+
+
+*********Get deployment/service/replicaset/pod into yaml file
+kubectl get [the name] -o yaml
+
+
+*********Show a pod details
+kubectl describe [pod name/id]
+
+
+*********Show pods/deployments/service/replicaset/all
+kubectl get pods/deployments/service/replicaset/all
+
+
+*********Add/change a tag to a pod
+kubectl label [pod name/id] [tagname]=[tagvalue] --overwrite
+
+
+*********Delete a label
+kubectl label [pod name/id] [tagname]-
+
+
+*********Show labels
+kubectl get pods --show-labels
+
+
+*********filter pods using tag and selector
+kubectl get pods --selector [tagname]=[tagvalue],[tagname2]!=[tagvalue2]
+
+	or
+
+kubectl get pods -l 'tagname in (value1,value2)'
+
+Note: -l : is selector's shortcut
+
+*********delete pods based on labels
+kubectl delete pods -l [tagname]=[tagvalue]
+
+
+*********Change container's image
+kubectl set image deployment/[deployment name] [tagvalue]=[new image id/name]
+
+Check rollout history: kubectl rollout history [deployment name]
+
+Undo the change: kubectl rollout undo [deployment name] --to-revision=[revision taken from rollout history cmd]
+
+
+Note: after that, kubenetes will create a new replicaset for the new pods, the old pods will be all rollout
+
+
+
+*********Debug a pod: logs and interactive terminal
+kubectl logs [pod name/id]
+kubectl exec -it [pod name/id] -c [container name] bash ( could try with sh as well)
+
+-c: specify a container within the pod
+
+
+*********Turn on DashBoard addon in minikube (it require metric-server addon as well)
+minikube addons enable dashboard
+
+To run minikube dashboard: minikube dashboard
+Check addon list: minikube addons list
+
+
+*********Create secret
+kubectl create secret generic apikey --from-literal=api_key=123456
+
+To check the secret kubectl get secret apikey -o yaml
+
+explains: create a secret called apikey with the data contain a key-value pair of api_key=123456
+Note: to use secret, in the yaml file, place fill the secret name and the key into secretKeyRef field
+when declaring env variables of the container
+
+
+*********Scale out with 2 pods manually
+kubectl scale --replicas=2 [deployment.apps/trading]
+
+*********Create a autoscale object
+kubectl autoscale deployment [trading] --min=1 --max=5 --cpu-percent=50
+
+*********Stop a cronjob
+kubectl edit [cronjob name/id] > change the suspend property to true 

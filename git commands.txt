@@ -1,0 +1,182 @@
+******MAKE LOCAL DIR A GIT REPO > PULISH TO GITHUB**********
+git init  ----make a dir local git repo (make sure you are in root dir of the project)
+git add -A  ----the -A to add all files recursively 
+git commit -m "a message"
+git remote add origin "a public git repo url"
+git push -u origin master
+
+
+
+******CLONE GITHUB REPOSITORY************
+clone master branch: git clone <remote repository URL>
+clone other branches: git clone --branch <branchname> --single-branch <remote repository URL>
+
+
+******CHECK LOCAL GIT POSITION***********
+get status
+git branch -a      //show all local branch and remotes
+
+
+******MOVE TO/CREATE IF NOT EXIST***********
+git checkout -b <local_name> <remote_name>
+
+
+*****ADD and COMMIT changes to LOCAL REPOSITORY*******
+add/prepare changed file(s) (. means all files):	git add .  
+commit the changes in local repo: 			git commit -m "message here"
+
+
+*****PUSH/PULL changes to/from GITHUB REPOSITORY**************
+git push
+git pull
+
+
+***** DELETE remote/local branch----------------------------
+git push origin --delete <remote_branch_want_to_delete>
+
+git branch -D <local_branch_name>
+
+
+
+**** VERSIONING*****************************
+git reflog  -----showing out all changes in the project across all branches
+git reset HEAD@{index}  ----back to the index version
+
+----to add minor changes to the previous commit. Note: should use for local commits only
+git add .
+git commit --amend --no-edit
+
+----DELETE LATEST COMMIT
+git reset HEAD~ --hard	(--hard will completely remove all changes)
+git reset HEAD~ --soft (--soft will keep the changes)
+
+----force to push with the current HEAD
+git push origin +HEAD
+
+----TEMPORARILY STORE WIP (WORK-IN-PROGRESS) TO BE ABLE TO SWITCH TO ANOTHER BRANCH
+git stash (temporary save changes - git stash save is called when no argument provided in git stash command)
+	save "message" (stash the working space with a message)
+	save --keep-index (stash only files unstaged)
+	save --include-untracked (untracked files are included into the stash)
+
+git stash pop (take out the work on top of the stashes stack - git stash apply won't delete the stashed after apply like pop)
+git stash list (show stashes stack - it incluse stashes ID, branch you were working on and its last commit)
+		--stat (to show more details of the stashes)
+
+git stash drop (remove the stash on top of the stashes stack - provide stash id to remove a specific stash)
+git stash clear (remove all stashes on the stash stack)
+
+git stash show (show details of most recent stash)
+		stash_id (for details of the stash)
+
+Note: git stash apply stash@{stash_id} to pick out and apply a specific stash in stashes stack
+
+
+
+git log ----show commit history (--stat for show more details of the logs)
+
+git revert <commit hash>  ----get back to the version of the commit-hash
+
+git checkout <commit hash> -- path/to/file  ----the old version of the file will be in your index
+
+
+----COPY COMMIT(S) FROM A BRANCH TO CURRENT BRANCH
+git cherry-pick [args] <commit hash> ----to copy a commit from a branch to current branch
+Arguments:
+	-x : add source branch of the commit to the message after copied
+	--edit: change commit message when copying the commit
+	--no-commit <commit hash 1> <commit hash n>: copy multiple commit from other branches to current branch without making a commit
+	--signoff: add cherry-picker info to the copying commit
+
+
+----MAKING CHANGES TO GIT HISTORY
+git filter-branch -f --prune-empty -- --all 
+Description: 
+	remove ALL empty commits from ALL branches "--all" - use "HEAD" instead to work on current branch only. 
+	"-f" means force	
+
+git filter-branch [args] -- --all 
+Arguments:
+	--tree-filer 'shell cmd goes here' (execute a shell cmd on all commits and branches. E.g. 'rm -f passwords.txt')
+
+	--index-filter 'git cmd goes here' (same as above but skip checking each commit -> faster. E.g 'git rm --cached --ignore-unmatch password.txt')
+
+
+----DEALING WITH LINEFEED/CARRAGE/LINEFEED
+Option1: use .gitattributes and place it to your project root
+Option2: setup git setting in team member work space	
+	Linux: get config --global core.autocrlf input
+	Windows: get config --global core.autocrlf true
+	OS: get config core.autocrlf false
+
+
+
+----MAKE A GIT REPO AS A SUBMODULE
+git submodule add <repo link> (to add submodules into current project, then need to commit and push back to central repo)
+
+Notes:
+	- to make changes in submodule, cd to the submodule, checkout the branch, make changes, add, commit -> cd to root project, add, commit the changes
+	- by default, changes on submodule is not attached to a branch (checkout before make changes or use merge the changes to an existing branch)
+	- make sure to add, commit, push on both submodules and main repos when making changes on submodules
+	- to prevent forgetting pushing on both repos 
+		+ add --recurse-submodules=check to push cmd on parent directory so it will abort the push if you havent push submodule yet
+		+ or add --recurse-submodules=check to push cmd on parent directory so it will push both submodules and main repo with one push cmd.
+		+ or make an alias: git config alias.pushall "push --recurse-submodules=on-demand" so we can jsut call "git pushall" to do the work
+
+
+----CLONE A REPO WITH SUBMODULES
+git clone <repo link>	:clone a repo as normal
+git submodule into	:initialize the submodules setting
+git submodule update	:pull/update submodules to the local repo
+
+Note: when other member updated submodules, announcement will be show when pulling the main repo. perform the update cmd for updating submodules
+
+
+
+
+----TAKE BACK A DELETED COMMIT USING REFLOG (it only keep track of local commits)
+git reflog	:show reflog which stores all commits along with git log
+git reset --hard reflog_id	:move back to a specific step based on reflog_id
+
+
+----TAKE BACK A DELETED BRANCH
+git log --walk-reflog	:show detail of all reflog (reflog name and message), determine the reflog commit to take back
+git branch <branch name> reflog_id	:to make a new branch with the last commit. After this, the new branch will have all commit from the deleted branch
+
+
+----UPDATE A BRANCH FROM MASTER BRANCH
+git checkout a_branch
+git rebase master_branch	: move all unique commits of the a_branch and place them on top of current master_branch commits (link the a_branch to the lastest commit on master branch)
+
+
+
+----ALTER COMMITS ON SAME BRANCH
+Step 1: git rebase -i HEAD~3	:move the first 3 commits to an edit space
+Step 2: make changes to the pop-up editor for making corresponding changes to the 3 commits (changing the order, change a commit message using "reword" command, etc.)
+Step 3: git rebase --continue	:to finish the rebase work station
+
+
+**********CONFIG LOCAL GIT USER/ALIAS/DISPLAY******************
+#switch to centos user
+sudo su centos
+
+#Note: all git config is stored in ~/.gitconfig file
+#config your identities 
+git config --global user.name "John Doe"
+git config --global user.email johndoe@example.com
+
+#config push rule
+git config --global push.default simple
+
+#add some git aliases (e.g. `git co` is same as `git checkout now`)
+git config --global alias.co checkout
+git config --global alias.ci commit
+git config --global alias.st status
+git config --global alias.br branch
+git config --global alias.lg "log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short"
+
+#display the current branch in terminal
+echo 'export PS1="\t \[\033[36m\]\u\[\033[m\]:\[\033[32m\]\[\033[33;1m\]\W\[\033[m\] [\$(git branch 2>/dev/null | grep "^*" | colrm 1 2)] \$ "' > ~/.bashrc
+source ~/.bashrc
+
+

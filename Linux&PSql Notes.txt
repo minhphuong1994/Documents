@@ -1,0 +1,104 @@
+#VNC default user/pass
+centos/centos1234
+
+#show hostname
+hostname -f	: -f to show hostname in full
+
+
+#get system info cmds
+egrep	: perform regular expession ("^CPU\(s\):" get text starting with CPU(s): )
+awk	: scan through text and collect only thing within its select options (awk '[select options]{action}'). Below will print 2nd word from the string
+xargs	: to remove preceeding and trailing spaces
+
+lscpu_out=`lscpu` 
+meminfo_out=`cat /proc/meminfo`
+cpu_number=$(echo "$lscpu_out"  | egrep "^CPU\(s\):" | awk '{print $2}' | xargs)	- number of cpu out of lscpu cmnd
+
+hostname=$(hostname -f)
+cpu_architecture=$(echo "$lscpu_out"  | egrep "^Architecture:" | awk '{print $2}' | xargs)
+cpu_model=$(echo "$lscpu_out"  | egrep "^Model name:" | awk '{$1="";$2="";print}' | xargs)
+cpu_mhz=$(echo "$lscpu_out"  | egrep "^CPU MHz:" | awk '{print $3}' | xargs)
+l2_cache=$(echo "$lscpu_out"  | egrep "^L2 cache:" | awk '{print $3}' | xargs)
+l2_cache=${l2_cache::-1}
+total_mem=$(echo "$meminfo_out" | egrep "^MemTotal:" | awk '{print $2}' | xargs)
+timestamp=$(date +"%Y-%m-%d %H:%M:%S")
+
+memory_free=$(echo "$meminfo_out" | egrep "^MemFree:" | awk '{$1="";print}' | xargs)
+cpu_idle=$(vmstat | tail -1 | awk '{print $15}' | xargs)
+cpu_kernel=$(vmstat | tail -1 | awk '{print $14}' | xargs)
+disk_io=$(vmstat -d | tail -1 | awk '{print $10}' | xargs)
+disk_available=$(df -BM / | tail -1 | awk '{print $4}')
+disk_available=${disk_available::-1}
+
+# To run IntelliJ
+cd ~apps/"ide folder name"
+./bin/idea.sh
+
+
+#command explain
+yum - package management tool (like npm in node)
+source - read and exec command inside a file
+ln -s file link   - create a symbolic link of "file" (-l to check if the "link" exist)
+
+
+#to unpack .tar.gz 
+tar -xzf archived_file (-x:extract -z:gzip -f:file -v:verbose)
+
+#create user
+adduser [username]
+passwd [username]	- it will ask to enter password for the username
+
+#create user group>add user to the group
+sudo groupadd [group name]
+sudo usermod -aG [group name] [username]
+
+
+#special syntax
+[left cmd] || [right cmd]	: meaning OR/ELSE, will exec cmd of the right if the exit code of cmd on the left != 1
+
+
+#show file system disk space
+df --output=source,size -h
+df: show all file system disk size fields
+--output:  show only selected fields
+-h : show size in human readable format
+
+
+
+#echo cmd
+-e: allow back backslash escapes
+echo -e "abc\n"
+
+
+#set env variable
+export [VAR NAME]=[value1]
+printenv 	: show all env variables
+Note: to assign more than 1 value, place ":" after the previous value (value1:value2:value3)
+
+
+#working with processes
+kill [process id] : kill a process based on its id
+ps	: show running process
+options:
+	a: all users
+	u: shows user/owner of the process
+	x: display process not executed in the terminal
+
+////************************working with PostgreSQL**********************////
++ connect to psql:
+	Notes:
+		-W	: no password (psql will look for password itself. If not found, fail to connect
+		-h	:hostname/IP
+		-U	:user name
+		-d	:database
+	psql -h [host name/IP] -p [port number] -U [username] -d [database name] -W 
+
++ list databases:
+	\list
+
++ switch to other databases:
+	\connect [database name] or \c [database name]
+
+
++ quit psql shell/CLI:
+	\q or ctrl+d
